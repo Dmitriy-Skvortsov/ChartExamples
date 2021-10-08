@@ -38,6 +38,7 @@ def plot_chart2():
     sns.histplot(data=df_normal_a
                  , x='score'
                  , bins=50
+                 , kde=True
                  )   
     plt.show()
     
