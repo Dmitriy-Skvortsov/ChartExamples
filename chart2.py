@@ -15,8 +15,7 @@ def plot_chart():
             title='Нормальное распределение')
     ax.grid()
     
-    plt.show()
-    
+    plt.show()    
     
 def plot_chart2():
     # Данные для графика
@@ -40,5 +39,4 @@ def plot_chart2():
             title='Нормальное распределение')
     ax.grid()
     
-    plt.show()   
-    
+    plt.show()

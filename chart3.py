@@ -41,4 +41,3 @@ def plot_chart2():
                  , kde=True
                  )   
     plt.show()
-    
